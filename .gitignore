@@ -9,5 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-# OpenRouter API Key
+# API Key
 .env
